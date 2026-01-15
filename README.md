@@ -81,11 +81,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shatakshisingh28&theme=shadow_blue" />
-  <br><br>
+  
   <img src="https://nirzak-streak-stats.vercel.app/?user=shatakshisingh28&theme=shadow_blue" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shatakshisingh28&theme=shadow_blue&layout=compact" />
+  
+  
 </p>
 
 ---
