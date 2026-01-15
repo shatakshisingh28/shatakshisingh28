@@ -111,8 +111,6 @@
 ✨ <i>Always learning. Always building. Always curious.</i> ✨
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shatakshisingh28&icon=0&color=0" />
-</p>
+
 
 <!-- Crafted with ❤️ by Shatakshi Singh -->
