@@ -75,11 +75,6 @@
 📌 **Handwritten Text Converter**  
 > Converts typed text into editable handwritten-style documents  
 
-📌 **AR Visiting Card**  
-> Augmented Reality-based smart visiting card  
-
-📌 **2D Endless Runner Game**  
-> Game built with smooth mechanics and increasing difficulty  
 
 ---
 
