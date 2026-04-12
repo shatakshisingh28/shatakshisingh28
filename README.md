@@ -78,22 +78,12 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shatakshisingh28&theme=shadow_blue" />
-  
-  
-</p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzz_mess_)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arcane._._.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshi-singh-256625219)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shatakshis@gmail.com)
 
