@@ -8,7 +8,7 @@
   🚀 B.Tech Student | 📊 Data Science & ML | 🧠 AI Explorer
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -21,7 +21,7 @@
 📈 I enjoy problem-solving, data visualization & model experimentation
 </p>
 
----
+
 
 ## 🧭 Data Scientist Roadmap (My Learning Path)
 
@@ -33,7 +33,7 @@
 🔄 Model Optimization & Deployment  
 🎯 Real-world AI Projects  
 
----
+
 
 ## 💻 Tech Stack
 
