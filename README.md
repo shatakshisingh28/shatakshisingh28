@@ -62,22 +62,6 @@
 
 </p>
 
----
-
-## 🚀 Featured Projects
-
-📌 **MediMate – AI Health Assistant**  
-> AI-powered healthcare support system trained on trusted medical resources  
-
-📌 **StudentNewsAPI**  
-> Custom news scraper & website delivering student-relevant news  
-
-📌 **Handwritten Text Converter**  
-> Converts typed text into editable handwritten-style documents  
-
-
----
-
 
 ## 🌐 Connect With Me
 
