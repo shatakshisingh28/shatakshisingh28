@@ -22,55 +22,69 @@
 </p>
 
 
+<h2 align="center">🌷 Tech Stack 🌷</h2>
 
-## 🧭 Data Scientist Roadmap (My Learning Path)
+<p align="center">
+  💻 Languages • 📊 Data Science • 🤖 AI/ML • ⚙️ Tools
+</p>
 
-✅ Programming & DSA (Python, Java)  
-✅ Statistics & Probability  
-✅ Data Analysis (NumPy, Pandas, Matplotlib, Plotly)  
-✅ Machine Learning (Scikit-Learn, ML Algorithms)  
-🔄 Deep Learning (TensorFlow, Keras)  
-🔄 Model Optimization & Deployment  
-🎯 Real-world AI Projects  
+<div align="center">
 
+### 🌸 Programming Languages
+![Python](https://img.shields.io/badge/Python-FFE5EC?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/Java-FFD6A5?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF3B0?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-D6E5FA?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
+### 🎀 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-FFD6CC?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Flask](https://img.shields.io/badge/Flask-F8F9FA?style=for-the-badge&logo=flask&logoColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-D6F6FF?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-## 💻 Tech Stack
+### 📈 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-E5D4FF?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-F3D9FF?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-E8FFD7?style=for-the-badge&logo=plotly&logoColor=11557C)
+![Plotly](https://img.shields.io/badge/Plotly-DDEBFF?style=for-the-badge&logo=plotly&logoColor=3F4F75)
+![SciPy](https://img.shields.io/badge/SciPy-D6F0FF?style=for-the-badge&logo=scipy&logoColor=0C55A5)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-FFE5B4?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+### 🤖 AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE0B5?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-FFD6D6?style=for-the-badge&logo=keras&logoColor=D00000)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-FFD9CC?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub](https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=181717)
+
+</div>
+
+## 🌷 Let's Connect 🌷
+
+<p align="center">
+  <i>✨ Always open to collaborations, projects, and tech discussions ✨</i>
+</p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
+  <a href="https://www.instagram.com/arcane._._._?igsh=MXJ1cDc2OGFhYTlpcg==">
+    <img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+  <a href="https://linkedin.com/in/shatakshi-singh-256625219">
+    <img src="https://img.shields.io/badge/LinkedIn-CDE7FF?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+  </a>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+  <a href="mailto:shatakshis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FFE5E5?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
 
 </p>
-
-## 🌐 Connect With Me
 
 <p align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arcane._._._?igsh=MXJ1cDc2OGFhYTlpcg==)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shatakshi-singh-256625219)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shatakshis@gmail.com)
-
+  💌 Feel free to reach out anytime!
 </p>
+
 
 ## ☕ Support My Work
 
