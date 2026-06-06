@@ -62,7 +62,6 @@
 
 </p>
 
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -73,11 +72,34 @@
 
 </p>
 
+## ☕ Support My Work
+
+If you found my projects helpful or learned something from my code, consider supporting my work:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shatakshisi) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/shatakshisingh28) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
+
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/shatakshisingh28) <!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
+
+</div>
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
+
 ---
 
-<p align="center">
-✨ <i>Always learning. Always building. Always curious.</i> ✨
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shatakshisingh28&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
+
 
 
 
