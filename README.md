@@ -104,6 +104,17 @@ If you found my projects helpful or learned something from my code, consider sup
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
 </div>
 
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shatakshisingh28&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shatakshisingh28&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/shatakshisingh28" alt="Contribution Calendar" width="100%"/>
 ---
 
 <div align="center">
@@ -113,7 +124,6 @@ If you found my projects helpful or learned something from my code, consider sup
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
-
 
 
 
