@@ -25,7 +25,7 @@
 <h2 align="center">🌷 Tech Stack 🌷</h2>
 
 <p align="center">
-  💻 Languages • 📊 Data Science • 🤖 AI/ML • ⚙️ Tools
+  •💻 Languages • 📊 Data Science • 🤖 AI/ML • ⚙️ Tools
 </p>
 
 <div align="center">
